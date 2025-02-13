@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <MainWindow />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainWindow from './components/MainWindow.vue'
 
 export default {
   components: {
-    HelloWorld
+    MainWindow
   }
 }
 </script>
